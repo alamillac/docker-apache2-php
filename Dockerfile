@@ -1,6 +1,6 @@
 # apache2-php
 #
-# VERSION               1.0
+# VERSION               2.0
 
 FROM     alamilla/base
 MAINTAINER Andres F. Lamilla, "alamilla@gmail.com"
